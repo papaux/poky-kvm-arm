@@ -2,6 +2,9 @@
 
 This repository helps you to prepare and build a basic Linux Kernel and roofts with KVM virtualization stack.
 
+It has been developed as part of my thesis and my work at the College of Engineering and Architecture Fribourg.
+
+
 The installation script **yocto-kvm-arm-env-setup.sh** will setup a ready-to-use poky-daisy Yocto distribution with meta layers for providing KVM on ARM:
  - *meta-virtualization*: support for building virtualization stack (KVM, libvirt, etc.)
  - *meta-ti*: basic support for TI boards (OMAP 5432)
